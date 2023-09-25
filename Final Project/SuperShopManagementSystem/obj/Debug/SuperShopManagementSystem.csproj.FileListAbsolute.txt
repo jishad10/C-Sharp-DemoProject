@@ -1,0 +1,78 @@
+D:\AIUB COURSE NOTES\SEM 6\C#\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\bin\Debug\SuperShopManagementSystem.exe.config
+D:\AIUB COURSE NOTES\SEM 6\C#\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\bin\Debug\SuperShopManagementSystem.exe
+D:\AIUB COURSE NOTES\SEM 6\C#\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\bin\Debug\SuperShopManagementSystem.pdb
+D:\AIUB COURSE NOTES\SEM 6\C#\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.AssemblyReference.cache
+D:\AIUB COURSE NOTES\SEM 6\C#\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\AIUB COURSE NOTES\SEM 6\C#\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.LoginForm.resources
+D:\AIUB COURSE NOTES\SEM 6\C#\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.Properties.Resources.resources
+D:\AIUB COURSE NOTES\SEM 6\C#\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.GenerateResource.cache
+D:\AIUB COURSE NOTES\SEM 6\C#\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.CoreCompileInputs.cache
+D:\AIUB COURSE NOTES\SEM 6\C#\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.exe
+D:\AIUB COURSE NOTES\SEM 6\C#\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.pdb
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\bin\Debug\SuperShopManagementSystem.exe.config
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\bin\Debug\SuperShopManagementSystem.exe
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\bin\Debug\SuperShopManagementSystem.pdb
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\obj\Debug\SuperShopManegementSystem.Loading.resources
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.Login.resources
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.Properties.Resources.resources
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.exe
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.pdb
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\bin\Debug\SuperShopManagementSystem.exe.config
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\bin\Debug\SuperShopManagementSystem.exe
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\bin\Debug\SuperShopManagementSystem.pdb
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManegementSystem.Loading.resources
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.Properties.Resources.resources
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.exe
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.pdb
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManegementSystem.Login.resources
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.Employee.resources
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\bin\Debug\SuperShopManagementSystem.exe.config
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\bin\Debug\SuperShopManagementSystem.exe
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\bin\Debug\SuperShopManagementSystem.pdb
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.AssemblyReference.cache
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.Admin.resources
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.Employee.resources
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManegementSystem.Loading.resources
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManegementSystem.Login.resources
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.OwnerEmployeeManageForm.resources
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.OwnerProductManageForm.resources
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.Properties.Resources.resources
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.GenerateResource.cache
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.CoreCompileInputs.cache
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.exe
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.pdb
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\bin\Debug\Microsoft.VisualStudio.LiveShare.dll
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\bin\Debug\Microsoft.VisualStudio.LiveShare.xml
+D:\AIUB COURSE NOTES\SEM 6\C#\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.CopyComplete
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\bin\Debug\SuperShopManagementSystem.exe.config
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\bin\Debug\SuperShopManagementSystem.exe
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\bin\Debug\SuperShopManagementSystem.pdb
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\bin\Debug\Microsoft.VisualStudio.LiveShare.dll
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\bin\Debug\Microsoft.VisualStudio.LiveShare.xml
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.Admin.resources
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.Employee.resources
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManegementSystem.Loading.resources
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManegementSystem.Login.resources
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.OwnerEmployeeManageForm.resources
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.OwnerProductManageForm.resources
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.Properties.Resources.resources
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.CopyComplete
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.exe
+C:\Users\User\Downloads\C-Sharp-Final-Project (1)\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.pdb
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\bin\Debug\Microsoft.VisualStudio.LiveShare.dll
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\bin\Debug\Microsoft.VisualStudio.LiveShare.xml
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.Admin.resources
+C:\Users\User\Desktop\C-Sharp-Final-Project\Final Project\SuperShopManagementSystem\obj\Debug\SuperShopManagementSystem.csproj.CopyComplete
